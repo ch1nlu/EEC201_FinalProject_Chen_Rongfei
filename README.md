@@ -7,6 +7,7 @@ Our main goal is to build an automatic speaker recognition system with MATLAB as
 Speaker recognition is the process of automatically recognizing the speaker based on the information included in speech waves. Speaker recognition can be further classified into identification and verification. Speaker identification is the process of distinguishing the speaker on the basis of registered voice. Speaker verification, on the other hand, is the process of accepting or rejecting the identity claim of a speaker. The principles and implementations of two types are quite distinguishing, while it won’t take much work to convert from one to another as we shall discuss later.
 
 In this project we will be mainly focusing on the implemention of speaker identification system. A diagram depicting the system is given as below.
-
-
-
+![Structure of speaker identification system](https://github.com/ch1nlu/EEC201_FinalProject_Chen_Rongfei/blob/master/Speaker_rec.jpg)
+<p align="center">
+Structure of speaker identification system
+</p>
