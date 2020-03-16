@@ -1,2 +1,1 @@
-# eec201
-This is for eec201 final project
+# EEC201 Final Project: Speaker Recognition System
